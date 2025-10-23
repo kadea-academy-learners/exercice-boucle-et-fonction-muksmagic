@@ -16,7 +16,7 @@ function saluer(nom) {
     console.log("Bonjour, inconnu");
   }
 }
-
+saluer("SHeria");
 module.exports = { saluer };
 
 // Ne pas modifier la ligne ci-dessous
